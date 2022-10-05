@@ -33,7 +33,7 @@
 
 	<div class="corner">
 		<a href="https://github.com/sveltejs/kit">
-			<img src={github} alt="GitHub" />
+			<img src={github} alt="GitHub" />asd
 		</a>
 	</div>
 </header>

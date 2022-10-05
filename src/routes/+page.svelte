@@ -18,11 +18,11 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		to your wkks<br />SvelteKit app
 	</h1>
 
 	<h2>
-		forked? wow editing <strong>src/routes/+page.svelte</strong>
+		not bad!?!! wow asd <strong>src/routes/+yupe.svelte</strong>
 	</h2>
 
 	<Counter />
